@@ -1,4 +1,4 @@
-# Aplicacion Para Administrar Proyectos Estilo Trello
+# CRUD CON REACT - REDUX - JSON_SERVER
 Esta es una simple aplicación crud o almenos eso parece ya que esta construida con REDUX, una estructura un poco liosa al principio pero luego es facil agregar mas y mas funciones :)
 
 ## BACKEND
